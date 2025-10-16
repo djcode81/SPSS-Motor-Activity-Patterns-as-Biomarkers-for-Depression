@@ -53,6 +53,8 @@ Major Depressive Disorder features psychomotor disturbances observable through a
 | Q3: MADRS Correlation | r = .080 | p = .717 | - | Not significant |
 | Q4: Prediction Model | χ²(2) = 7.362 | p = .025 | R² = .169 | 65.5% accuracy |
 
+[View Full Results (PDF)](results_summary.pdf)
+
 ---
 
 ## Conclusions
