@@ -10,7 +10,7 @@ Major Depressive Disorder features psychomotor disturbances observable through a
 
 ---
 
-## Research Questions
+## Questions
 
 **Q1:** Do depressed patients show different mean motor activity than controls?  
 **Hypothesis:** Lower activity in depression (psychomotor retardation)
